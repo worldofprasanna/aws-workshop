@@ -1,0 +1,5 @@
+attendees = [
+  "abc",
+  "def"
+]
+
