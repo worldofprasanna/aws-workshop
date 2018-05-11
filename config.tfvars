@@ -1,5 +1,5 @@
 attendees = [
-  "abc",
-  "def"
+  "gopi"
 ]
+region = "us-east-1"
 
